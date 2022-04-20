@@ -98,7 +98,7 @@ box-shadow: 2px 2px 100px 68px rgba(25, 208, 150, 0.2);
 }
 
 .current {
-  background-color: #c7365f;
+  background-color: #110dea;
   opacity: 0.8;
   border-radius: 9px;
   color: #fff;
@@ -111,8 +111,9 @@ box-shadow: 2px 2px 100px 68px rgba(25, 208, 150, 0.2);
 .current-label {
   text-transform: uppercase;
   margin-bottom: 1rem;
-  font-size: 1.7rem;
-  color: #ddd;
+  font-size: 1.9rem;
+  color: #000;
+  font-weight: 900;
 }
 
 .current-score {
